@@ -1,3 +1,3 @@
 👋 @kennhartwig
-full stack web developer from Berlin, Germany
+web developer from Berlin, Germany
 📫 kenn@hartwig.dev
